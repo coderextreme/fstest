@@ -4,7 +4,7 @@ Version 1.0.0
 
 ```
 npm install
-# openssl --create: cert.pem key.pem -- with openssl
+# recreate: cert.pem key.pem -- with openssl
 webpack
 node app.mjs
 ```
